@@ -4,3 +4,4 @@
 <h1>Beidja Cheikh</h1>
 <h1>Master SDIA2</h1>
 <img src="./Images/Screenshot_2.png" alt="Architecture a implémenter" width="700" style="border: 2px solid black;"/>
+<img src="./Images/Screenshot_1.png" alt="Architecture a implémenter" width="700" style="border: 2px solid black;"/>
